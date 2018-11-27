@@ -11,8 +11,8 @@
 #     else:
 #         msg = contents.split()
 #         return len(msg)
-#
-#
+
+
 # file_path = 'alice.txt'
 #
 # file_len = get_file_count(file_path)
